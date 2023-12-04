@@ -7,7 +7,6 @@
 <div style="height: 24px">&#8203;</div>
 
 
-<div><h2><a href="https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1"># Console Home | Console Home | us-east-1</a></h2></div>
 
 <div><h3>1. Log into console and search for "EC2".</h3>
 <img src="https://images.tango.us/workflows/9d516a94-a601-414d-b9c7-78b7173e627d/steps/31dff9c3-f9b2-4461-969d-658804758057/80aff206-2099-4733-b692-cffb86a38bad.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4871&fp-y=0.4870&fp-z=1.0277&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=446&mark-y=189&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0zNyZoPTI1JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D" style="border-radius: 8px; border: 1px solid #F4F2F7;" width="600" alt="Log into console and search for &quot;EC2&quot;." />

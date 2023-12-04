@@ -2,7 +2,6 @@
 <h1><a href="https://app.tango.us/app/workflow/9d516a94-a601-414d-b9c7-78b7173e627d?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>Creating an Application Load Balancer in AWS Console | Tutorial</a></h1>
 <div><b>Creation Date:</b> December 3, 2023</div>
 <div><b>Created By:</b> Victoria Vargas</div>
-<div><a href="https://app.tango.us/app/workflow/9d516a94-a601-414d-b9c7-78b7173e627d?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>View most recent version on Tango.us</a></div>
 <div style="height: 24px">&#8203;</div>
 <hr />
 <div style="height: 24px">&#8203;</div>

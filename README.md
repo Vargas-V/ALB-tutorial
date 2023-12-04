@@ -1,4 +1,5 @@
-# ALB-tutorial
+# Elastic Load Balancer
+Setting up an Application Load Balancer (ALB) for your VPC
 <h1>Creating an Application Load Balancer in AWS Console | Tutorial</h1>
 <div><b>Creation Date:</b> December 3, 2023</div>
 <div><b>Created By:</b> Victoria Vargas</div>

@@ -1,5 +1,5 @@
 # ALB-tutorial
-<h1>>Creating an Application Load Balancer in AWS Console | Tutorial</h1>
+<h1>Creating an Application Load Balancer in AWS Console | Tutorial</h1>
 <div><b>Creation Date:</b> December 3, 2023</div>
 <div><b>Created By:</b> Victoria Vargas</div>
 <div style="height: 24px">&#8203;</div>

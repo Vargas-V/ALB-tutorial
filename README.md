@@ -196,6 +196,5 @@ The target group that you just created should pop up. Select it." />
 <br/>
 <hr/>
 <div>
-<span>Created with </span><a href="https://tango.us?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank' style='color: #256EFF'>Tango.us
-    </a>
+<h1>If you followed all of these steps, you have now successfully finished creating your Application Load Balancer!</h1>
 </div>
